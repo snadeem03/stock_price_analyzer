@@ -30,14 +30,15 @@ To use this Stock Analysis Dashboard, follow these steps:
 
 4.Access the Stock Analysis Dashboard through your web browser by opening the provided URL.
 
-## Usage 
-1.Enter the ticker symbol of the stock you want to analyze.
-2.Select the start and end dates for the analysis period.
-3.Choose the period (1 week, 1 day, 1 month) for historical data retrieval.
-4.Optionally, check the "Display raw data" checkbox to view the raw historical data.
-5.Select the metric (Close, Volume, High, Low, Open) you want to visualize using the dropdown menu.
-6.Explore the interactive line chart for the selected metric.
-7.In the sidebar, find key statistics and information about the stock data.
+## Usage
+
+1. Enter the ticker symbol of the stock you want to analyze.
+2. Select the start and end dates for the analysis period.
+3. Choose the period (1 week, 1 day, 1 month) for historical data retrieval.
+4. Optionally, check the "Display raw data" checkbox to view the raw historical data.
+5. Select the metric (Close, Volume, High, Low, Open) you want to visualize using the dropdown menu.
+6. Explore the interactive line chart for the selected metric.
+7. In the sidebar, find key statistics and information about the stock data.
 
 
 
