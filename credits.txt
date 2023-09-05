@@ -1,0 +1,11 @@
+Stock Analysis Dashboard Credits:
+
+Author: Nadeem Shaik
+GitHub: https://github.com/snadeem03
+
+This project is made possible by the following libraries:
+- Streamlit: https://www.streamlit.io/
+- yfinance: https://pypi.org/project/yfinance/
+- pandas: https://pandas.pydata.org/
+
+
