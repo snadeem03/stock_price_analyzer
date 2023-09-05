@@ -40,6 +40,11 @@ To use this Stock Analysis Dashboard, follow these steps:
 6. Explore the interactive line chart for the selected metric.
 7. In the sidebar, find key statistics and information about the stock data.
 
+## About the author 
+This Stock Analysis Dashboard was created by ***Nadeem Shaik***. Feel free to reach out for questions or feedback.
+
+
+
 
 
 
